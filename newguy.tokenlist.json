@@ -1,5 +1,5 @@
 {
-  "name": "NewGuy Tokenlist",
+  "name": "NewSwap Tokenlist",
   "logoURI": "https://raw.githubusercontent.com/kensyone/new-tokenlist/refs/heads/main/token/newguy.png",
   "keywords": [
     "taraxa",
@@ -47,10 +47,7 @@
       "name": "USDM Stablecoin",
       "symbol": "USDM",
       "decimals": 18,
-      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fq6hrffxcaahhn6g338lsdymv36tc&w=64&q=75",
-      "tags": [
-        "stablecoin"
-      ]
+      "logoURI": "https://www.geckoterminal.com/_next/image?url=https%3A%2F%2Fassets.geckoterminal.com%2Fq6hrffxcaahhn6g338lsdymv36tc&w=64&q=75"
     },
     {
       "chainId": 841,
@@ -58,21 +55,14 @@
       "name": "Tether USD",
       "symbol": "USDT",
       "decimals": 6,
-      "logoURI": "https://assets.coingecko.com/coins/images/54338/standard/usdt.jpg?1739337598",
-      "tags": [
-        "stablecoin"
-      ]
-    },
+      "logoURI": "https://assets.coingecko.com/coins/images/54338/standard/usdt.jpg?1739337598"
     {
       "chainId": 841,
       "address": "0x37Df886BE517F9c75b27Cb70dac0D61432C92FBE",
       "name": "Staked TARA",
       "symbol": "stTARA",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/taraswap/assets/main/logos/0x37Df886BE517F9c75b27Cb70dac0D61432C92FBE/logo.png",
-      "tags": [
-        "liquidstaking"
-      ]
+      "logoURI": "https://raw.githubusercontent.com/taraswap/assets/main/logos/0x37Df886BE517F9c75b27Cb70dac0D61432C92FBE/logo.png"
     }
   ],
   "version": {
