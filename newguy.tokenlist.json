@@ -56,6 +56,7 @@
       "symbol": "USDT",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/54338/standard/usdt.jpg?1739337598"
+    },
     {
       "chainId": 841,
       "address": "0x37Df886BE517F9c75b27Cb70dac0D61432C92FBE",
