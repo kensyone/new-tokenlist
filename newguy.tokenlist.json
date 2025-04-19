@@ -19,14 +19,6 @@
     },
     "tokens": [
       {
-        "name": "NewGuy",
-        "decimals": 18,
-        "symbol": "NEWGUY",
-        "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
-        "chainId": 841,
-        "logoURI": "https://raw.githubusercontent.com/kensyone/new-tokenlist/refs/heads/main/token/newguy.png"
-      },
-      {
         "name": "Wrapped Tara",
         "decimals": 18,
         "symbol": "WTARA",
