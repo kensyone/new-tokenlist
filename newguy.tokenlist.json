@@ -1,6 +1,6 @@
 {
     "name": "NewGuy Swap Tokenlist",
-    "logoURI": "",
+    "logoURI": "https://raw.githubusercontent.com/kensyone/new-tokenlist/refs/heads/main/token/newguy.png",
     "keywords": [
       "taraxa",
       "fomoswap",
@@ -24,7 +24,7 @@
         "symbol": "NEWGUY",
         "address": "0x6B175474E89094C44Da98b954EedeAC495271d0F",
         "chainId": 841,
-        "logoURI": ""
+        "logoURI": "https://raw.githubusercontent.com/kensyone/new-tokenlist/refs/heads/main/token/newguy.png"
       },
       {
         "name": "Wrapped Tara",
